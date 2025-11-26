@@ -1,7 +1,7 @@
-# FYPythonWorkshop_27.11.2024
+# FYPythonWorkshop_26.11.2025
 
 This repository holds the content used during the Python Foundations Workshop for First Years, 
-hosted on Wednesday 27th November 2024. The contents within it are open to anyone for access and 
+hosted on Wednesday 26th November 2025. The contents within it are open to anyone for access and 
 usage.
 
 ## Python Guide Contents
